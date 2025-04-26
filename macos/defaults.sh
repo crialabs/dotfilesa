@@ -1,6 +1,6 @@
-COMPUTER_NAME="Neo"
-LANGUAGES=(en nl)
-LOCALE="en_US@currency=EUR"
+COMPUTER_NAME="Cria.labs"
+LANGUAGES=(pt)
+LOCALE="pt_BR"
 MEASUREMENT_UNITS="Centimeters"
 SCREENSHOTS_FOLDER="${HOME}/Screenshots"
 
